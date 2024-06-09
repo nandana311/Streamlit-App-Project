@@ -3,7 +3,7 @@ pandas
 scipy
 matplotlib==3.7.0
 streamlit
-pandas-profiling
+ydata_profiling
 streamlit-pandas-profiling
 openpyxl
 xlrd
